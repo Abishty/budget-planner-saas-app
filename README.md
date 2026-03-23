@@ -335,7 +335,6 @@ budget-planner-saas-app/
 
 ## 9. Where to read more
 
-- **`CLAUDE.md`** — Product vision, future services (Plaid, microservices), and architecture ideas.  
 - **Prisma:** [https://www.prisma.io/docs](https://www.prisma.io/docs)  
 - **Mercurius (GraphQL on Fastify):** [https://mercurius.dev](https://mercurius.dev)  
 - **Vite:** [https://vitejs.dev](https://vitejs.dev)  
